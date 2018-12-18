@@ -1,7 +1,7 @@
 
 ## Plato's Plebians
 
-In the project directory, you can run:
+This Web Application was desgned as a lecture tool for teachers that wanted to eliminate bias and to create an more direct connection between Teacher and Student. The App incluse two randomized listing tools for selecting students and acsess to questions submited by the students.
 
 ### Student Card
 To initiate the student card, you must press either the 'Repetition' button or the 'No Repitition' button.
