@@ -15,4 +15,4 @@ By clicking on the student card you will flip to the Question side. This lists a
 
 ## Link
 
-[Heroku](https://facebook.github.io/create-react-app/docs/getting-started)
+[Heroku](https://platosplebs.herokuapp.com)
